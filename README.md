@@ -7,7 +7,9 @@ I am not related, nor is acting on the behalf of 株式会社ブリリアント�
 
 If 株式会社ブリリアントサービス is not approved of this decision, they can freely submit an DMCA request so I'll take it down.
 
-All files in this repo are provided as-is from the ``jewel-s-free101j.zip`` file with no alterations at all.
+All files in this repo are provided as-is from the ``jewel-s-free101j.zip`` file.
+
+This specific branch converts the encoding of all text/csv files from ``SHIFT-JIS`` to ``UTF-8``.
 
 The original usage agreement is included below in original Japanese, unaltered from ``Readme.txt``:
 
